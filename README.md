@@ -1,6 +1,6 @@
 # StudentAntiscam
 
-A static Vietnamese online-safety learning website for high-school students.
+A static Vietnamese online-safety learning website for lower-secondary school students (grades 8–9).
 
 ## Structure
 
