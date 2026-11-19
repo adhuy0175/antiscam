@@ -1,4 +1,4 @@
-/* StudentAntiscam: online-safety learning experience for high school students. */
+/* StudentAntiscam: online-safety learning experience for lower-secondary school students (grades 8–9). */
 'use strict';
 (() => {
 const $ = (selector, root = document) => root.querySelector(selector);
